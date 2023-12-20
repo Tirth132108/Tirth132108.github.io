@@ -1,1 +1,23 @@
 
+.jumbotron{
+ padding-top: 100px;
+}
+
+
+input,select{
+opacity: 70%;
+    color: azure;
+}
+
+h1{
+    padding: 50px 50px;
+    size: 100px;
+   text-align: center;
+}
+.btn{
+    text-align: center;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: whitesmoke;
+    opacity: 1; /* Firefox */
+  }
